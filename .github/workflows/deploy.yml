@@ -13,7 +13,7 @@ permissions:
   contents: write
 
 env:
-  L10n: en
+  L10n: zh-cn
   
 jobs:
   deploy:
